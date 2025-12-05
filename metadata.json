@@ -1,0 +1,5 @@
+{
+  "name": "RemindAI",
+  "description": "A smart, AI-powered reminder application that parses natural language to automatically set tasks, due dates, and priorities.",
+  "requestFramePermissions": []
+}
